@@ -9,7 +9,7 @@ public class Main {
         int num1 = sc.nextInt();
         System.out.println("Skriv et nummer mer.");
         int num2 = sc.nextInt();
-        int sum = num1 + num2;
+        int sum = num1 * num2;
         System.out.println("Summen er: " + sum);
     }
 }
